@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ScholasticTolase
 - 👀 I’m interested in Web and Blockchain Space
-- 🌱 I’m currently learning BackEnd Development using Node.js, PHP and Blockchain Development using Solidity and Web3js
+- 🌱 I’m currently learning BackEnd Development using Javascript and Blockchain Development using Solidity and Web3js
 - 💞️ I’m looking to collaborate on Blockchain Dev
 - 📫 How to reach me? - Via Telegram @TommyBoi
 

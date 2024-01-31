@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ScholasticTolase
 
- 👀 I’m interested in Web and Blockchain Space, DevOps is the new found love 😘
+- 👀 I’m interested in Web and Blockchain Space, DevOps is the new found love 😘
 <!----
 - 🌱 I’m currently learning BackEnd Development using Javascript and Blockchain Development using Solidity and Web3js
 - 💞️ I’m looking to collaborate on Blockchain Dev and DevOps
